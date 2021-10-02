@@ -18,8 +18,9 @@
 
 ## About me
 
-[Linkedin](https://www.linkedin.com/in/bruno-brand%C3%A3o-75378a1a0)
-[Website](https://brun1o.github.io/certificard/) 💻 - Working on it.
+- [Linkedin](https://www.linkedin.com/in/bruno-brand%C3%A3o-75378a1a0)
+
+- [Website](https://brun1o.github.io/certificard/) 💻 - Working on it.
 
 
 
